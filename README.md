@@ -32,3 +32,17 @@ First 4 insertion sort steps of this array: [7,3,5,8,2,9,4,15,6]
 3. [2,3,5,7,8,9,4,15,6]
 4. [2,3,4,5,7,8,9,15,6]
 
+
+# Project 2
+
+[16,21,11,8,12,22]  -> All 2 question is about for this array
+
+**Question 1:**
+1. [16,21,11]-[8,12,22]
+2. [16,21]-[11]-[8,12]-[22]
+3. [16]-[21]-[11]-[8]-[12]-[22]
+4. [11,16,21]-[8,12,22]
+5. [8,11,12,16,21,22] - Final state
+
+**Question 2:**
+In all situations the Big-O notation of Merge Sort is O(nlogn)
