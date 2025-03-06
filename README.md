@@ -46,3 +46,13 @@ First 4 insertion sort steps of this array: [7,3,5,8,2,9,4,15,6]
 
 **Question 2:**
 In all situations the Big-O notation of Merge Sort is O(nlogn)
+
+
+# Project 3
+
+**Question:**
+[7,5,1,8,3,6,0,9,4,2]
+
+Let's say 7 is the root:
+The right side is root is bigger than root, left side is smaller.
+
